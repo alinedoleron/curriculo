@@ -60,6 +60,12 @@ p {
     padding-bottom: 50px;  
 }
 
+@media (max-width: 417px) {
+    .col-md-4 {
+        padding: 0 10px;
+    }
+}
+
 .name {
     color: #d3b1a1;
     height: 200px;
